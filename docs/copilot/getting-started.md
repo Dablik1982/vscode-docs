@@ -1,3 +1,4 @@
+
 ---
 Order: 4
 Area: copilot
@@ -10,7 +11,9 @@ MetaSocialImage: images/shared/github-copilot-social.png
 ---
 # Getting started with GitHub Copilot in VS Code
 
-This tutorial walks you through the key features of GitHub Copilot in Visual Studio Code. Learn how to get started with the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) extension to get AI-powered code suggestions in the editor, use chat conversations to refactor your code, and fix code errors with smart actions.
+This tutorial walks you through the key features of GitHub Copilot in Visual Studio Code. Learn how to get started with the [GitHu
+b Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+) extension to get AI-powered code suggestions in the editor, use chat conversations to refactor your code, and fix code errors with smart actions.
 
 > [!TIP]
 > If you don't yet have a Copilot subscription, you can use Copilot for free by signing up for the [Copilot Free plan](https://github.com/github-copilot/signup) and get a monthly limit of completions and chat interactions.
